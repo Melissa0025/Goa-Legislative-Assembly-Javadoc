@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"gla_java","l":"Bill"},{"p":"gla_java","l":"Main"},{"p":"gla_java","l":"Minister"},{"p":"gla_java","l":"MLA"}];updateSearchResults();
